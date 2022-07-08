@@ -1,0 +1,18 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.button {
+  display: block;
+  position: absolute;
+  top: 10%;
+  left: 45%;
+  padding: 0.75em 2em;
+  text-align: center;
+  text-decoration: none;
+  background-color: black;
+}
+.javascript {
+  display: block;
+}
